@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="right">I haven't done much yet, so stay tunned!</h5>
+<h3 align="center">I haven't done much yet, so stay tunned!</h3>
 
 ###
 
