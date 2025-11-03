@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Currently a student at CODA Dijon to be a fullstack developper.</p>
+<p align="center">Currently a student at CODA Dijon to be a fullstack developper.</p>
 
 ###
 
